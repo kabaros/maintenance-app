@@ -8,7 +8,7 @@
   },
   "appType": "APP",
   "name": "Maintenance app",
-  "version": "32.26.2",
+  "version": "32.27.0",
   "description": "DHIS2 Maintenance app",
   "icons": {
     "48": "icon.png"
@@ -16,5 +16,5 @@
   "developer": {
     "name": "Mark Polak"
   },
-  "manifest_generated_at": "Mon Mar 18 2024 10:50:14 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Thu Mar 21 2024 08:53:28 GMT+0000 (Coordinated Universal Time)"
 }
