@@ -16,5 +16,15 @@
   "developer": {
     "name": "HISP"
   },
-  "manifest_generated_at": "Sun Mar 02 2025 01:52:38 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Sun Mar 02 2025 01:52:38 GMT+0000 (Coordinated Universal Time)",
+  "shortcuts": [
+        {
+            "name": "Category section",
+            "url": "#/overview/categories"
+        },
+        {
+            "name": "Category",
+            "url": "#/categories"
+        }
+    ]
 }
