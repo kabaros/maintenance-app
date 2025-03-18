@@ -1,0 +1,147 @@
+[
+    {
+      "locale": "ar",
+      "translations": {}
+    },
+    {
+      "locale": "ar_IQ",
+      "translations": {}
+    },
+    {
+      "locale": "cs",
+      "translations": {}
+    },
+    {
+      "locale": "da",
+      "translations": {}
+    },
+    {
+      "locale": "en",
+      "translations": {
+        "APP_TITLE": "App Management",
+        "APP_DESCRIPTION": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
+        "SHORTCUT_Category section": "La seccion de las categorias",
+        "SHORTCUT_Category": "Categoria"
+      }
+    },
+    {
+      "locale": "es",
+      "translations": {}
+    },
+    {
+      "locale": "es_419",
+      "translations": {}
+    },
+    {
+      "locale": "fr",
+      "translations": {}
+    },
+    {
+      "locale": "hi_IN",
+      "translations": {}
+    },
+    {
+      "locale": "id",
+      "translations": {}
+    },
+    {
+      "locale": "km",
+      "translations": {}
+    },
+    {
+      "locale": "lo",
+      "translations": {}
+    },
+    {
+      "locale": "my",
+      "translations": {}
+    },
+    {
+      "locale": "nb",
+      "translations": {}
+    },
+    {
+      "locale": "ne",
+      "translations": {}
+    },
+    {
+      "locale": "nl",
+      "translations": {}
+    },
+    {
+      "locale": "prs",
+      "translations": {}
+    },
+    {
+      "locale": "ps",
+      "translations": {}
+    },
+    {
+      "locale": "pt",
+      "translations": {}
+    },
+    {
+      "locale": "pt_BR",
+      "translations": {}
+    },
+    {
+      "locale": "ro",
+      "translations": {}
+    },
+    {
+      "locale": "ru",
+      "translations": {}
+    },
+    {
+      "locale": "si",
+      "translations": {}
+    },
+    {
+      "locale": "sv",
+      "translations": {}
+    },
+    {
+      "locale": "tet",
+      "translations": {}
+    },
+    {
+      "locale": "tg",
+      "translations": {}
+    },
+    {
+      "locale": "uk",
+      "translations": {}
+    },
+    {
+      "locale": "ur",
+      "translations": {}
+    },
+    {
+      "locale": "uz_Cyrl",
+      "translations": {}
+    },
+    {
+      "locale": "uz_Latn",
+      "translations": {}
+    },
+    {
+      "locale": "uz_UZ_Cyrl",
+      "translations": {}
+    },
+    {
+      "locale": "uz_UZ_Latn",
+      "translations": {}
+    },
+    {
+      "locale": "vi",
+      "translations": {}
+    },
+    {
+      "locale": "zh",
+      "translations": {}
+    },
+    {
+      "locale": "zh_CN",
+      "translations": {}
+    }
+  ]
