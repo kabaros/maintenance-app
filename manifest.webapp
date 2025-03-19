@@ -8,6 +8,7 @@
   },
   "appType": "APP",
   "name": "Maintenance app",
+  "short_name": "maintenance",
   "version": "32.33.9",
   "description": "DHIS2 Maintenance app",
   "icons": {
