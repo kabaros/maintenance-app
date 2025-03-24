@@ -1,11 +1,20 @@
 [
     {
       "locale": "ar",
-      "translations": {}
+      "translations": {
+        "APP_TITLE": "App Management",
+        "APP_DESCRIPTION": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
+        "SHORTCUT_Category section": "[AR] Category section",
+        "SHORTCUT_Category": "[AR] Category"
+      }
     },
     {
       "locale": "ar_IQ",
-      "translations": {}
+      "translations": {
+        "APP_TITLE": "App Management",
+        "APP_DESCRIPTION": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
+        "SHORTCUT_Category": "[AR IQ] Category"
+      }
     },
     {
       "locale": "cs",
