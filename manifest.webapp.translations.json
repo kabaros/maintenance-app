@@ -1,161 +1,199 @@
 [
-    {
-      "locale": "ar",
-      "translations": {
-        "APP_TITLE": "App Management",
-        "APP_DESCRIPTION": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
-        "SHORTCUT_Category section": "[AR] Category section",
-        "SHORTCUT_Category": "[AR] Category"
-      }
-    },
-    {
-      "locale": "ar_IQ",
-      "translations": {
-        "APP_TITLE": "App Management",
-        "APP_DESCRIPTION": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
-        "SHORTCUT_Category": "[AR IQ] Category"
-      }
-    },
-    {
-      "locale": "cs",
-      "translations": {}
-    },
-    {
-      "locale": "da",
-      "translations": {}
-    },
-    {
-      "locale": "en",
-      "translations": {
-        "APP_TITLE": "App Management",
-        "APP_DESCRIPTION": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
-        "SHORTCUT_Category section": "Category section",
-        "SHORTCUT_Category": "Category"
-      }
-    },
-    {
-      "locale": "es",
-      "translations": {
-        "APP_TITLE": "App Management",
-        "APP_DESCRIPTION": "The Application Management App provides the ability to upload webapps in .zip files, as well as installing apps directly from the official DHIS 2 App Store",
-        "SHORTCUT_Category section": "La seccion de las categorias",
-        "SHORTCUT_Category": "Categoria"
-      }
-    },
-    {
-      "locale": "es_419",
-      "translations": {}
-    },
-    {
-      "locale": "fr",
-      "translations": {}
-    },
-    {
-      "locale": "hi_IN",
-      "translations": {}
-    },
-    {
-      "locale": "id",
-      "translations": {}
-    },
-    {
-      "locale": "km",
-      "translations": {}
-    },
-    {
-      "locale": "lo",
-      "translations": {}
-    },
-    {
-      "locale": "my",
-      "translations": {}
-    },
-    {
-      "locale": "nb",
-      "translations": {}
-    },
-    {
-      "locale": "ne",
-      "translations": {}
-    },
-    {
-      "locale": "nl",
-      "translations": {}
-    },
-    {
-      "locale": "prs",
-      "translations": {}
-    },
-    {
-      "locale": "ps",
-      "translations": {}
-    },
-    {
-      "locale": "pt",
-      "translations": {}
-    },
-    {
-      "locale": "pt_BR",
-      "translations": {}
-    },
-    {
-      "locale": "ro",
-      "translations": {}
-    },
-    {
-      "locale": "ru",
-      "translations": {}
-    },
-    {
-      "locale": "si",
-      "translations": {}
-    },
-    {
-      "locale": "sv",
-      "translations": {}
-    },
-    {
-      "locale": "tet",
-      "translations": {}
-    },
-    {
-      "locale": "tg",
-      "translations": {}
-    },
-    {
-      "locale": "uk",
-      "translations": {}
-    },
-    {
-      "locale": "ur",
-      "translations": {}
-    },
-    {
-      "locale": "uz_Cyrl",
-      "translations": {}
-    },
-    {
-      "locale": "uz_Latn",
-      "translations": {}
-    },
-    {
-      "locale": "uz_UZ_Cyrl",
-      "translations": {}
-    },
-    {
-      "locale": "uz_UZ_Latn",
-      "translations": {}
-    },
-    {
-      "locale": "vi",
-      "translations": {}
-    },
-    {
-      "locale": "zh",
-      "translations": {}
-    },
-    {
-      "locale": "zh_CN",
-      "translations": {}
+  {
+    "locale": "ar",
+    "translations": {
+      "APP_TITLE": "[ARABIC] Maintenance app",
+      "APP_DESCRIPTION": "[ARABIC] DHIS2 Maintenance app",
+      "SHORTCUT_Categories": "[ARABIC] Categories",
+      "SHORTCUT_Category options": "[ARABIC] Category options",
+      "SHORTCUT_Category combinations": "[ARABIC] Category combinations",
+      "SHORTCUT_Category option combinations": "[ARABIC] Category option combinations",
+      "SHORTCUT_Category option groups": "[ARABIC] Category option groups",
+      "SHORTCUT_Category option group sets": "[ARABIC] Category option group sets",
+      "SHORTCUT_Data elements": "[ARABIC] Data elements",
+      "SHORTCUT_Data element groups ": "[ARABIC] Data element groups "
     }
-  ]
+  },
+  {
+    "locale": "ar_IQ",
+    "translations": {}
+  },
+  {
+    "locale": "ckb",
+    "translations": {}
+  },
+  {
+    "locale": "cs",
+    "translations": {}
+  },
+  {
+    "locale": "da",
+    "translations": {}
+  },
+  {
+    "locale": "en",
+    "translations": {
+      "APP_TITLE": "Maintenance app",
+      "APP_DESCRIPTION": "DHIS2 Maintenance app",
+      "SHORTCUT_Categories": "Categories",
+      "SHORTCUT_Category options": "Category options",
+      "SHORTCUT_Category combinations": "Category combinations",
+      "SHORTCUT_Category option combinations": "Category option combinations",
+      "SHORTCUT_Category option groups": "Category option groups",
+      "SHORTCUT_Category option group sets": "Category option group sets",
+      "SHORTCUT_Data elements": "Data elements",
+      "SHORTCUT_Data element groups ": "Data element groups ",
+      "SHORTCUT_Data element group sets": "Data element group sets",
+      "SHORTCUT_Data sets": "Data sets",
+      "SHORTCUT_Data set notifications": "Data set notifications",
+      "SHORTCUT_Indicators": "Indicators",
+      "SHORTCUT_Indicator types": "Indicator types",
+      "SHORTCUT_Indicator groups": "Indicator groups",
+      "SHORTCUT_Indicator group sets": "Indicator group sets",
+      "SHORTCUT_Program indicators": "Program indicators",
+      "SHORTCUT_Program indicator groups": "Program indicator groups",
+      "SHORTCUT_Organisation units": "Organisation units",
+      "SHORTCUT_Organisaiton unit groups": "Organisaiton unit groups",
+      "SHORTCUT_Organisation unit group sets": "Organisation unit group sets",
+      "SHORTCUT_Organisation unit levels": "Organisation unit levels",
+      "SHORTCUT_Hierarchy operations": "Hierarchy operations",
+      "SHORTCUT_Programs": "Programs",
+      "SHORTCUT_Tracked entity attributes": "Tracked entity attributes",
+      "SHORTCUT_Relationship types": "Relationship types",
+      "SHORTCUT_Tracked entity types": "Tracked entity types",
+      "SHORTCUT_Program rules": "Program rules",
+      "SHORTCUT_Program rule variables": "Program rule variables",
+      "SHORTCUT_Validation rules": "Validation rules",
+      "SHORTCUT_Validation rule groups": "Validation rule groups",
+      "SHORTCUT_Validation notifications": "Validation notifications",
+      "SHORTCUT_Constants": "Constants",
+      "SHORTCUT_Attributes": "Attributes",
+      "SHORTCUT_Option sets": "Option sets",
+      "SHORTCUT_Option groups": "Option groups",
+      "SHORTCUT_Option group sets": "Option group sets",
+      "SHORTCUT_Legends": "Legends",
+      "SHORTCUT_Predictors": "Predictors",
+      "SHORTCUT_Predictor groups": "Predictor groups",
+      "SHORTCUT_Push analysis": "Push analysis",
+      "SHORTCUT_External map layers": "External map layers",
+      "SHORTCUT_Data approval levels": "Data approval levels",
+      "SHORTCUT_Data approval workflows": "Data approval workflows",
+      "SHORTCUT_Locales": "Locales",
+      "SHORTCUT_SQL views": "SQL views",
+      "SHORTCUT_Icons": "Icons",
+      "SHORTCUT_Analytics table hooks": "Analytics table hooks"
+    }
+  },
+  {
+    "locale": "es",
+    "translations": {}
+  },
+  {
+    "locale": "es_419",
+    "translations": {}
+  },
+  {
+    "locale": "fr",
+    "translations": {}
+  },
+  {
+    "locale": "hi_IN",
+    "translations": {}
+  },
+  {
+    "locale": "id",
+    "translations": {}
+  },
+  {
+    "locale": "km",
+    "translations": {}
+  },
+  {
+    "locale": "lo",
+    "translations": {}
+  },
+  {
+    "locale": "my",
+    "translations": {}
+  },
+  {
+    "locale": "nb",
+    "translations": {}
+  },
+  {
+    "locale": "ne",
+    "translations": {}
+  },
+  {
+    "locale": "nl",
+    "translations": {}
+  },
+  {
+    "locale": "prs",
+    "translations": {}
+  },
+  {
+    "locale": "ps",
+    "translations": {}
+  },
+  {
+    "locale": "pt",
+    "translations": {}
+  },
+  {
+    "locale": "pt_BR",
+    "translations": {}
+  },
+  {
+    "locale": "ro",
+    "translations": {}
+  },
+  {
+    "locale": "ru",
+    "translations": {}
+  },
+  {
+    "locale": "si",
+    "translations": {}
+  },
+  {
+    "locale": "sv",
+    "translations": {}
+  },
+  {
+    "locale": "tet",
+    "translations": {}
+  },
+  {
+    "locale": "tg",
+    "translations": {}
+  },
+  {
+    "locale": "uk",
+    "translations": {}
+  },
+  {
+    "locale": "ur",
+    "translations": {}
+  },
+  {
+    "locale": "uz_UZ_Cyrl",
+    "translations": {}
+  },
+  {
+    "locale": "uz_UZ_Latn",
+    "translations": {}
+  },
+  {
+    "locale": "vi",
+    "translations": {}
+  },
+  {
+    "locale": "zh",
+    "translations": {}
+  },
+  {
+    "locale": "zh_CN",
+    "translations": {}
+  }
+]
